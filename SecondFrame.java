@@ -11,8 +11,6 @@ import javax.swing.table.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
-
 public class SecondFrame extends db_connect implements ActionListener {
 	static int tamt=0;
 	static String username = LoginForm.username;
